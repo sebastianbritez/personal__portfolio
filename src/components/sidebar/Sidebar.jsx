@@ -1,5 +1,5 @@
 import './sidebar.css'
-import Logo from './logo__icono-2.png'
+import Logo from './letra-s.png'
 
 export const Sidebar = () => {
   return (
