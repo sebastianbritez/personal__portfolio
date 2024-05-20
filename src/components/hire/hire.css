@@ -42,7 +42,7 @@
 }
 
 .contact__form-area{
-    height: 10.25rem;
+    height: 20rem;
 }
 
 .contact__form-area textarea{
@@ -56,3 +56,4 @@ margin-top: 4.5rem;
 .social__title{
     margin-bottom: 0.5rem;
 }
+
