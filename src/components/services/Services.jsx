@@ -9,15 +9,15 @@ const data = [
     image: Development,
     title: 'Desarrollo Web',
     description:
-      'Como desarrollador web, diseño y construyo sitios y aplicaciones digitales, utilizando tecnologías como HTML, CSS y JavaScript. Mi enfoque es crear experiencias en línea atractivas y funcionales para mis clientes.'
+      'Diseño y construyo sitios web y aplicaciones, utilizando diversos lenguajes y tecnologias. Con un enfoque en crear experiencias eficientes e intuitivas.'
   },
 
   {
     id : 2,
     image: Design,
-    title: 'Diseño Grafico',
+    title: 'Marketing & Branding',
     description:
-      'Como diseñador gráfico, mi objetivo es comunicar visualmente ideas y conceptos. Desde la creación de logotipos hasta el diseño de materiales impresos y digitales, utilizo mi creatividad y habilidades técnicas para producir piezas visuales impactantes que transmitan el mensaje deseado.'
+      'Desde crear un logo y flyers publicitarios, hasta idear una identidad de marca, puedo posicionar tu empresa en las redes sociales'
   },
 
   {
@@ -25,12 +25,12 @@ const data = [
     image: Mentor,
     title: 'Mentoria',
     description:
-      'Como mentor, guío y apoyo a individuos en su desarrollo profesional y personal. Comparto mi experiencia y conocimientos para ayudarles a alcanzar sus metas y superar desafíos. A través de la escucha activa, retroalimentación constructiva y el establecimiento de metas alcanzables, empoderamos juntos el crecimiento y el éxito.'
+      'Comparto mi experiencia y conocimientos asesorandote para alcanzar tus metas. Dentro del ideal que la educacion puede cambiar el mundo.'
   },
 ]
 
 export const Services = () => {
-  return <section className="services container" id='#services'>
+  return <section className="services container" id='services'>
     <h2 className="section__title">Servicios</h2>
 
     <div className="services__container grid">
