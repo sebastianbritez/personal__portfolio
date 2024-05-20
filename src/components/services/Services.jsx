@@ -9,7 +9,7 @@ const data = [
     image: Development,
     title: 'Desarrollo Web',
     description:
-      'Diseño y construyo sitios web y aplicaciones, utilizando diversos lenguajes y tecnologias. Con un enfoque en crear experiencias eficientes e intuitivas.'
+      'Diseño y construyo sitios web y aplicaciones, utilizando diversas tecnologias. Con un enfoque en crear experiencias eficientes e intuitivas.'
   },
 
   {
